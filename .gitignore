@@ -11,5 +11,5 @@ c63pred
 *.yuv
 *.c63
 
-/.vscode.vscode/
+.vscode/
 logs/
